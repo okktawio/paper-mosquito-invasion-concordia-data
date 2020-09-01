@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mosquitos 1996 - 1997</name>
+    <Style id="icon-1502-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1502-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-000000-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1522-000000-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1522-000000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-000000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-000000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-000000-nodesc-normal">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-000000-nodesc-highlight">
+      <IconStyle>
+        <color>ff000000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-000000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-000000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-000000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1522-097138-nodesc-normal">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1522-097138-nodesc-highlight">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1522-097138-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1522-097138-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1522-097138-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-BDBDBD-normal">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-BDBDBD-highlight">
+      <IconStyle>
+        <color>ffbdbdbd</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-BDBDBD">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-BDBDBD-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-BDBDBD-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-C2185B-normal">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-highlight">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Descubrimiento Ae aegypti
+</name>
+      <description><![CDATA[09/01/1997 Ae aegypti<br>29/01/1997 Sin larvas<br>27/02/1997 Sin larvas<br>27/03/1997 Sin larvas<br>24/05/1997 Sin larvas<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0124018,-31.3261786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 2
+</name>
+      <description><![CDATA[11/01/1997 Sin larvas<br>29/01/1997 Sin larvas<br>27/03/1997 Sin larvas<br>24/05/1997 Sin larvas<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0106556,-31.3482953,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 3
+</name>
+      <description><![CDATA[11/01/1997 Aedes aegypti, Culex pipiens<br>29/01/1997 Aedes aegypti, Culex pipiens<br>27/02/1997 Aedes aegypti<br>27/03/1997 Aedes aegypti, Culex pipiens<br>24/05/1997 Aedes aegypti, Culex pipiens<br>23/07/1997 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          -58.015312,-31.3425501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 4</name>
+      <description><![CDATA[11/01/1997 Sin Larvas<br>29/01/1997 Aedes aegypti<br>27/02/1997 Aedes aegypti, Culex pipiens<br>27/03/1997 Culex pipiens<br>24/05/1997 Culex pipiens<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0159825,-31.3419591,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 5</name>
+      <description><![CDATA[11/01/1997 Sin larvas<br>29/01/1997 Sin larvas<br>27/02/1997 Sin larvas<br>27/03/1997 Sin larvas<br>24/05/1997 Sin larvas<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0117124,-31.3228655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 6
+</name>
+      <description><![CDATA[11/01/1997 Aedes aegypti<br>29/01/1997 Aedes aegypti, Culex pipiens<br>27/03/1997 Aedes aegypti]]></description>
+      <styleUrl>#icon-1899-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0112457,-31.3207162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 7
+</name>
+      <description><![CDATA[11/01/1997 Aedes aegypti<br>29/01/1997 Aedes aegypti<br>27/02/1997 Aedes aegypti, Culex pipiens<br>27/03/1997 Aedes aegypti, Culex pipiens<br>24/05/1997 Culex pipiens<br>23/07/1997 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0135149,-31.3198914,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 8
+</name>
+      <description><![CDATA[12/01/1997 Culex pipiens<br>29/01/1997 Culex pipiens<br>27/02/1997 Culex pipiens, Aedes aegypti]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0086708,-31.3575399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 9</name>
+      <description>12/01/1997 Sin larvas</description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0077374,-31.3534079,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 10</name>
+      <description>12/01/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0221891,-31.3239745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 11
+</name>
+      <description><![CDATA[12/01/1997 Culex pipiens<br>29/01/1997 Aedes aegypti, Culex pipiens<br>27/02/1997 Aedes aegypti, Culex pipiens<br>27/03/1997 Culex pipiens<br>24/05/1997 Culex pipiens<br>23/07/1997 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0147541,-31.3513281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 12</name>
+      <description>12/01/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.018316,-31.3622764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 13</name>
+      <description><![CDATA[19/08/1996 Sin larvas<br>08/11/1996 Culex pipiens<br>12/01/1997 Culex pipiens<br>24/05/1997 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0204189,-31.3719228,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 14</name>
+      <description>14/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0260193,-31.3728022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 15</name>
+      <description>14/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.032918,-31.3716113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 16</name>
+      <description>14/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0310297,-31.3856623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 17</name>
+      <description>25/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0152691,-31.3782249,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 18</name>
+      <description><![CDATA[23/08/1996 Sin larvas<br>27/09/1996 Sin larvas<br>05/11/1996 Sin larvas<br>26/01/1997 Sin Larvas<br>29/03/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0078232,-31.3857813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 19</name>
+      <description>26/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9989505,-31.3809544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 20</name>
+      <description><![CDATA[19/08/1996 Sin larvas<br>08/11/1996 Culex pipiens<br>14/01/1997 Culex pipiens<br>27/01/1997 Culex pipiens<br>04/03/1997 Culex pipiens, Aedes aegypti<br>30/03/1997 Aedes aegypti<br>27/05/1997 Culex pipiens<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0249572,-31.3728754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 21</name>
+      <description>27/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.035171,-31.3712266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 22
+</name>
+      <description><![CDATA[1996/04/12 Culex pipiens<br>1996/08/19 Sin larvas<br>1996/11/09 Culex pipiens<br>1997/01/14 Culex pipiens<br>1997/01/27 Culex pipiens, Aedes aegypti<br>1997/03/01 Culex pipiens, Aedes aegypti<br>1997/03/30 Aedes aegypti<br>1997/05/27 Culex pipiens<br>1997/07/25 Aedes aegypti, Culex pipiens]]></description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0304933,-31.3830977,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 23
+</name>
+      <description><![CDATA[28/01/1997 Aedes aegypti, Culex pipiens<br>04/03/1997 Aedes aegypti, Culex pipiens<br>30/03/1997 Culex pipiens<br>27/05/1997 Sin larvas<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-FFEA00</styleUrl>
+      <Point>
+        <coordinates>
+          -58.031255,-31.3728205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 24</name>
+      <description>28/1/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0340767,-31.3804965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 25</name>
+      <description><![CDATA[21/08/1996 Sin larvas<br>05/11/1996 Culex pipiens<br>12/01/1997 Culex pipiens<br>29/01/1997 Culex pipiens<br>27/02/1997 Culex pipiens<br>24/05/1997 Sin larvas<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0177259,-31.3596105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 26</name>
+      <description><![CDATA[12/04/1996 Culex sp.<br>19/08/1996 Sin larvas<br>27/09/1996 Sin larvas<br>05/11/1996 Sin larvas<br>12/01/1997 Sin larvas<br>29/01/1997 Sin larvas<br>01/03/1997 Sin larvas<br>30/03/1997 Sin larvas<br>25/05/1997 Sin larvas<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0144858,-31.3784172,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 27</name>
+      <description><![CDATA[29/01/1997 Culex pipiens<br>01/03/1997 Culex pipiens, Aedes aegypi<br>27/05/1997 Sin larvas<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-FFD600</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0367804,-31.3917986,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 28</name>
+      <description><![CDATA[29/1/1997 Culex pipiens<br>01/03/1997 Culex pipiens<br>27/05/1997 Sin larvas<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0421019,-31.3901501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 29
+</name>
+      <description><![CDATA[29/01/1997 Culex pipiens<br>01/03/1997 Culex pipiens, Aedes aegypi<br>30/03/1997 Aedes aegypti Culex pipiens<br>27/05/1997 Sin larvas<br>25/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0394626,-31.3851311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 30
+</name>
+      <description><![CDATA[19/08/1996 Sin larvas<br>08/11/1996  Culex pipiens<br>12/01/1997 Culex pipiens<br>29/01/1997 Aedes aegypti, Culex pipiens<br>01/03/1997 Aedes aegypti, Culex pipiens<br>30/03/1997 Aedes aegypti]]></description>
+      <styleUrl>#icon-1899-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0210036,-31.3811697,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa1
+</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1996/12/07 Sin larvas<br>1996/12/17 Culex pipiens<br>1996/12/22 Sin larvas<br>1996/12/29 Sin larvas<br>1997/01/14 Sin larvas<br>1997/01/22 Sin larvas<br>1997/01/29 Sin larvas<br>1997/02/06 Sin Larvas<br>1997/02/13 Sin Larvas<br>1997/02/21 Sin Larvas<br>1997/03/04 Aedes aegypti<br>1997/03/13 Aedes Aegypti<br>1997/03/20 Seco<br>1997/04/01 Seco<br>1997/04/11 Seco<br>1997/04/17 Seco<br>1997/04/23 Seco<br>1997/05/02 Seco<br>1997/05/13 Seco<br>1997/05/27 Seco]]></description>
+      <styleUrl>#icon-1502-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.020612,-31.4061121,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa2
+</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1996/12/03 Sin larvas<br>1996/12/07 Sin larvas<br>1996/12/17 Sin larvas<br>1996/12/22 Sin larvas<br>1996/12/29 Sin larvas<br>1997/01/22 Culex pipiens<br>1997/01/29 Culex pipiens<br>1997/02/06 Aedes aegypti<br>1997/02/13 Aedes aegypti<br>1997/03/04 Aedes aegypti<br>1997/03/13 Aedes aegypti<br>1997/03/20 Aedes aegypti<br>1997/04/01 Aedes aegypti<br>1997/04/11 Culex pipiens<br>1997/04/17 Sin larvas<br>1997/04/23 Sin larvas<br>1997/05/02 Sin larvas<br>1997/05/13 Aedes aegipty<br>1997/05/27 Seco<br>1997/06/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0124393,-31.3846731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa3</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1996/12/03 Sin larvas<br>1996/12/07 Sin larvas<br>1996/12/17 Sin larvas<br>1996/12/22 Sin larvas<br>1996/12/29 Sin larvas<br>1997/01/14 Sin larvas<br>1997/01/22 Aedes aegypti<br>1997/01/29 Sin larvas<br>1997/02/06 Aedes aegypti<br>1997/02/13 Aedes aegypti<br>1997/02/21 Sin larvas<br>1997/03/04 Aedes aegypti<br>1997/03/13 Aedes aegypti<br>1997/03/20 Sin larvas<br>1997/04/01 Aedes aegypti<br>1997/04/11 Aedes aegypti<br>1997/04/17 Aedes aegypti<br>1997/04/23 Aedes aegypti<br>1997/05/02 Sin larvas<br>1997/05/13 Sin larvas<br>1997/06/03 Sin larvas<br>1997/05/27 Sin larvas]]></description>
+      <styleUrl>#icon-1502-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0229187,-31.3807529,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa4
+</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1996/12/03 Sin larvas<br>1996/12/17 Sin larvas<br>1996/12/22 Sin larvas<br>1996/12/29 Sin larvas<br>1997/01/14 Sin larvas<br>1997/01/22 Sin larvas<br>1997/01/29 Sin larvas<br>1997/02/06 Aedes aegypti<br>1997/02/13 Sin larvas<br>1997/02/21 Sin larvas<br>1997/03/04 Aedes aegypti<br>1997/03/13 Aedes aegypti<br>1997/03/20 Aedes aegypti<br>1997/04/01 Aedes aegypti<br>1997/04/11 Aedes aegypti<br>1997/04/17 Sin larvas<br>1997/04/23 Aedes aegypti<br>1997/05/02 Sin larvas<br>1997/05/13 Sin larvas<br>1997/05/27 Aedes aegypti<br>1997/06/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0336958,-31.3720602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa5
+</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1996/12/03 Sin larvas<br>1996/12/07 Sin larvas<br>1996/12/17 Sin larvas<br>1996/12/22 Sin larvas<br>1996/12/29 Sin larvas<br>1997/01/14 Culex pipiens<br>1997/01/22 Aedes aegypti<br>1997/01/29 Aedes aegypti<br>1997/02/06 Aedes Aegypti<br>1997/02/13 Aedes Aegypti<br>1997/02/21 Aedes Aegypti<br>1997/03/04 Aedes Aegypti<br>1997/03/13 Aedes aegypti<br>1997/03/20 Aedes aegypti Culex pipiens<br>1997/04/01 Aedes aegypti<br>1997/04/11 Sin larvas<br>1997/04/17 Sin larvas<br>1997/04/23 Sin larvas<br>1997/05/02 Sin larvas<br>1997/05/13 Sin larvas<br>1997/05/27 Sin larvas<br>1997/06/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-FF5252</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0334598,-31.380153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa6</name>
+      <description><![CDATA[1996/11/26 Sin larvas<br>1997/01/27 Culex pipens<br>1997/02/06 Aedes Aegypti Microculex sp.<br>1997/02/13 Aedes Aegypti<br>1997/02/21 Aedes Aegypti<br>1997/03/04 Aedes Aegypti<br>1997/03/13 Aedes aegypti<br>1997/03/20 Aedes aegypti]]></description>
+      <styleUrl>#icon-1502-C2185B</styleUrl>
+      <Point>
+        <coordinates>
+          -58.024528,-31.3920802,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 31</name>
+      <description><![CDATA[01/03/1997 Aedes aegypti<br>29/03/1997 Aedes aegypti<br>25/05/1997 Sin larvas<br>26/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-A52714</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0118465,-31.3851677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 32</name>
+      <description><![CDATA[1996/01/03 Culex pipiens<br>1996/01/15 Culex pipiens<br>1996/04/12 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0342698,-31.3850944,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 33</name>
+      <description><![CDATA[1996/01/09 Culex pipiens<br>1996/01/27 Culex pipiens<br>1996/04/14 Culex pipiens<br>1996/08/19 Sin larvas<br>1996/28/09 Sin larvas<br>1996/11/03 Sin larvas<br>1997/01/09 Sin larvas<br>1997/01/26 Sin larvas<br>1997/02/26 Sin larvas<br>1997/03/26 Culex pipiens<br>1997/05/25 Sin larvas<br>1997/07/22 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9980654,-31.3786554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa01
+</name>
+      <description><![CDATA[1996/01/19 Sin larvas<br>1996/01/27 Sin larvas<br>1996/02/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9980654,-31.3786554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa02
+</name>
+      <description><![CDATA[1996/01/19 Sin larvas<br>1996/01/27 Sin larvas<br>1996/02/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0138099,-31.3930899,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa04
+</name>
+      <description><![CDATA[1996/01/19 Culex pipiens<br>1996/01/27 Culex pipiens<br>1996/02/03 Culex pipiens]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0202365,-31.3930716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Larvitrampa03
+</name>
+      <description><![CDATA[1996/01/19 Sin larvas<br>1996/01/27 Sin larvas<br>1996/02/03 Sin larvas]]></description>
+      <styleUrl>#icon-1502-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0142176,-31.3980444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 34
+</name>
+      <description><![CDATA[28/02/1997 Culex pipiens<br>29/03/1997 Culex pipiens<br>26/05/1997 Sin larvas<br>22/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0054092,-31.3989602,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 35
+</name>
+      <description><![CDATA[29/03/1997 Aedes aegypti<br>25/05/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0134881,-31.3874483,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 36
+</name>
+      <description>27/03/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0128765,-31.3451341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 37
+</name>
+      <description>22/07/1997 Culex eduardoi</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9937685,-31.372848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 38
+</name>
+      <description>23/07/1997 Culex pipiens</description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0136597,-31.3449234,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 49</name>
+      <description><![CDATA[19/08/1996 Culex pipiens<br>30/03/1997 Culex pipiens]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0125761,-31.3786279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 50</name>
+      <description>23/08/1996 Sin larvas</description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0025661,-31.4029071,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 51</name>
+      <description><![CDATA[23/08/1996 Sin larvas<br>28/02/1997 Sin larvas<br>27/05/1997 Sin larvas<br>22/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0047977,-31.4017533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 52</name>
+      <description><![CDATA[23/08/1996 Sin larvas<br>27/09/1996 Sin larvas<br>05/11/1996 Sin larvas<br>12/01/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-BDBDBD</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0121684,-31.3842151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 53</name>
+      <description><![CDATA[27/02/1997 Sin larvas<br>27/03/1997 Aedes aegypti<br>24/05/1997 Sin larvas<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0110312,-31.3211791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 55</name>
+      <description><![CDATA[27/02/1997 Culex pipiens<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0193138,-31.3666646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 57</name>
+      <description><![CDATA[27/02/1997 Culex pipiens<br>24/05/1997 Culex pipiens<br>23/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0181766,-31.3614061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 59</name>
+      <description><![CDATA[26/01/1997 Sin larvas<br>26/02/1997 Sin larvas<br>26/03/1997 Sin larvas<br>25/05/1997 Sin larvas<br>22/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -57.9934573,-31.3716846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Punto 58</name>
+      <description><![CDATA[27/01/1996 Sin larvas<br>03/03/1996 Sin larvas<br>xx/04/1996 Sin larvas<br>22/08/1996 Sin larvas<br>27/01/1997 Sin larvas<br>26/02/1997 Sin larvas<br>26/03/1997 Sin larvas<br>26/05/1997 Sin larvas<br>21/07/1997 Sin larvas]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0138475,-31.3931312,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2c1</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0363941,-31.4150764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2c2</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0279183,-31.4090881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2c3</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0214596,-31.4083189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2c5</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0011821,-31.3913956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3a1
+</name>
+      <styleUrl>#icon-1522-097138-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0063963,-31.4046378,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4c1
+</name>
+      <description>cuneta con culex</description>
+      <styleUrl>#icon-1522-000000</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0092849,-31.3782655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4c3
+</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0168569,-31.3743227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4c5</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0337528,-31.3879096,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5c2
+</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0106664,-31.3662798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5c4
+</name>
+      <description>cuneta con culex</description>
+      <styleUrl>#icon-1522-000000</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0384111,-31.367086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5c3</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0165029,-31.373022,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>5C5
+</name>
+      <description>Cuneta con culex</description>
+      <styleUrl>#icon-1522-000000</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0381966,-31.3754769,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9c1</name>
+      <description>arroyo con culex</description>
+      <styleUrl>#icon-1522-000000</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0025983,-31.3911942,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>9c2
+</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0021048,-31.3877139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>4c4</name>
+      <styleUrl>#icon-1522-000000-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0262446,-31.3855157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>3l1</name>
+      <styleUrl>#icon-1522-097138-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -58.0066967,-31.4055535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
